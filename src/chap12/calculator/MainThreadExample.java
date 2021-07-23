@@ -1,4 +1,4 @@
-package chap12_calculator;
+package chap12.calculator;
 
 public class MainThreadExample {
 

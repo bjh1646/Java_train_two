@@ -1,4 +1,4 @@
-package chap12_thread;
+package chap12.thread;
 
 public class ThreadNameExample {
 
