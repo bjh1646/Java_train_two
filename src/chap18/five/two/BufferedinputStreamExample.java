@@ -22,7 +22,7 @@ public class BufferedinputStreamExample {
 		start = System.currentTimeMillis();
 		while(bis.read() != -1) {}
 		end = System.currentTimeMillis();
-		System.out.println("사용하지 했을 때: " + (end-start) + "ms");
+		System.out.println("사용 했을 때: " + (end-start) + "ms");
 		bis.close();
 		fis2.close();
 
